@@ -1,4 +1,4 @@
-title: Welcome to kyjaimin's page!
+Welcome to kyjaimin's page!
 description: I'm trying this out for class!
 ## Welcome to GitHub Pages
 
