@@ -1,3 +1,5 @@
+title: Welcome to kyjaimin's page!
+description: I'm trying this out for class!
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kyjaimin/kyjaimin.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
